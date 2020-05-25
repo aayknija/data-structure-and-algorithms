@@ -12,7 +12,7 @@ public class LinearSearch {
             }
         }
         if(numberIndex != null ){
-            System.out.println(" The number "+numberIndex+" found at "+(numberIndex+1) + "th position in provided array.");
+            System.out.println(" The number "+numberToSearch+" found at "+(numberIndex+1) + "th position in provided array.");
         } else {
             System.out.println(" The number "+numberToSearch+" is not present in provided array.");
         }
