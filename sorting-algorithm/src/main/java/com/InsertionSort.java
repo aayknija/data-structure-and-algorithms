@@ -15,6 +15,6 @@ public class InsertionSort {
         for (int number : numbers) {
             System.out.print(number+",");
         }
-
+        System.out.println("");
     }
 }
